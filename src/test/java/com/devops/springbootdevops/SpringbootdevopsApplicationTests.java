@@ -1,10 +1,10 @@
-package com.devops.javatechie;
+package com.devops.springbootdevops;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class JavatechieApplicationTests {
+class springbootdevopsApplicationTests {
 
 	@Test
 	void contextLoads() {
